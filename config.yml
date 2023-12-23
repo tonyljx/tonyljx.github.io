@@ -1,6 +1,6 @@
 baseURL: https://tonyljx.github.io
 languageCode: zh-cn # en-us
-title: My New Hugo Site
+title: Tony's Blog
 theme: "PaperMod"
 
 enableInlineShortcodes: true #允许内联短码
