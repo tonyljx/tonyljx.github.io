@@ -1,4 +1,4 @@
-baseURL: http://example.org/
+baseURL: https://tonyljx.github.io
 languageCode: zh-cn # en-us
 title: My New Hugo Site
 theme: "PaperMod"
