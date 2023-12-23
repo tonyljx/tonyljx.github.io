@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://tonyljx.github.io/sitemap.xml

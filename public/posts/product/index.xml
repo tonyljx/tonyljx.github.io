@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>产品思考 on My New Hugo Site</title>
+    <link>https://tonyljx.github.io/posts/product/</link>
+    <description>Recent content in 产品思考 on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 23 Dec 2023 23:53:28 +0800</lastBuildDate>
+    <atom:link href="https://tonyljx.github.io/posts/product/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test1223</title>
+      <link>https://tonyljx.github.io/posts/product/test1223/</link>
+      <pubDate>Sat, 23 Dec 2023 23:53:28 +0800</pubDate>
+      <guid>https://tonyljx.github.io/posts/product/test1223/</guid>
+      <description>我去你妈的</description>
+    </item>
+  </channel>
+</rss>
